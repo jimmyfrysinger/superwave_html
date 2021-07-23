@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="79px" viewBox="0 0 79 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Close</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-118.000000, -4115.000000)" stroke="#000000">
+            <g id="About" transform="translate(0.000000, 4096.000000)">
+                <g id="Close" transform="translate(157.500000, 58.500000) rotate(-315.000000) translate(-157.500000, -58.500000) translate(130.000000, 31.000000)">
+                    <circle id="Oval" stroke-width="2" cx="27.5" cy="27.5" r="26.5"></circle>
+                    <line x1="12" y1="27.5" x2="42" y2="27.5" id="Line-2" stroke-width="3" stroke-linecap="square"></line>
+                    <line x1="27.5" y1="13" x2="27.5" y2="43" id="Line-2" stroke-width="3" stroke-linecap="square"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
